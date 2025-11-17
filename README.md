@@ -9,6 +9,13 @@
 * [vue-scroll-reveal](https://github.com/tserkov/vue-scroll-reveal#readme)
 * [axios](https://github.com/axios/axios)
 
+## Node Version 12
+
+## Quick start
+```sh
+npm run serve
+```
+
 ## 🚀 Serving
 
 Needed for the E-mail Form.
@@ -19,14 +26,14 @@ Use the standard php server.
 php commandline Serving: php -S localhost:8000 -t .
 ```
 
+## Publish
+After build dont forget push files up!
+- robots.txt
+- .htaccess
+
 ## 🔨 Todos
 - [ ] Reference text
 - [ ] Global color
 - [ ] Add skill points
 - [ ] Error page
 - [ ] Like function
-
-## Node Version 12
-
-## Quick start
-- npm run serve
