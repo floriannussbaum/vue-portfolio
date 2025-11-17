@@ -30,6 +30,7 @@ php commandline Serving: php -S localhost:8000 -t .
 After build dont forget push files up!
 - robots.txt
 - .htaccess
+- sendmail.php
 
 ## 🔨 Todos
 - [ ] Reference text
