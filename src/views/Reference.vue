@@ -29,7 +29,7 @@
               </span>
             </p>
             <div class="explanation-link">
-              <i class="icon-github" /> <a href="https://github.com/FlorianGlaeser/vue-portfolio" title="Code" target="_blank">github.com/FlorianGlaeser/vue-portfolio</a>
+              <i class="icon-github" /> <a href="https://github.com/floriannussbaum/vue-portfolio" title="Code" target="_blank">github.com/floriannussbaum/vue-portfolio</a>
             </div>
           </div>
         </article>

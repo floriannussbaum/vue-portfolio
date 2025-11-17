@@ -25,3 +25,8 @@ php commandline Serving: php -S localhost:8000 -t .
 - [ ] Add skill points
 - [ ] Error page
 - [ ] Like function
+
+## Node Version 12
+
+## Quick start
+- npm run serve

@@ -28,7 +28,7 @@
             distance: '900px',
             opacity: null,
             duration: 2000}"
-        >Florian Gläser</strong>
+        >Florian Nußbaum</strong>
       </p>
     </div>
   

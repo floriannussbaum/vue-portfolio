@@ -10,7 +10,7 @@
       
       <article>
         <h3>Angaben gem&auml;&szlig; &sect; 5 TMG</h3>
-        <p>Florian Gläser<br />
+        <p>Florian Nußbaum<br />
         Konstantinstra&szlig;e 5<br />
         04315 Leipzig</p>
 

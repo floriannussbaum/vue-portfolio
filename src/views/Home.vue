@@ -10,7 +10,7 @@
             <h2>Über mich</h2>
             <p>
               <span>
-                Mein Name ist Florian Gläser.
+                Mein Name ist Florian Nußbaum.
               </span>
               <span>
                 Ich bin Frondend Webentwickler aus Leidenschaft im Leipziger Raum.
@@ -27,7 +27,7 @@
             </p>
           </div>
 
-          <Picture class="spacing" :src="'Florian_Glaeser.jpg'" :alt="'Ein Porträt von Florian Gläser'" :title="'Portree von Florian Gläser'" />
+          <Picture class="spacing" :src="'Florian_Glaeser.jpg'" :alt="'Ein Porträt von Florian Nußbaum'" :title="'Portree von Florian Nußbaum'" />
         </article>
 
         <article>
@@ -45,7 +45,7 @@
             </p>
           </div>
 
-          <Picture class="spacing" :src="'beam.jpg'" :alt="'Backflip Animation von Florian Gläser'" :title="'Backflip Animation Florian Gläser'" :animation='true' />
+          <Picture class="spacing" :src="'beam.jpg'" :alt="'Backflip Animation von Florian Nußbaum'" :title="'Backflip Animation Florian Nußbaum'" :animation='true' />
 
           <aside class="balancing">
             <h3>Verletzungsrisiko</h3>
@@ -143,7 +143,7 @@ export default {
     TheContact,
   },
   metaInfo: {
-    title: 'Webdesign & Development – Florian Gläser',
+    title: 'Webdesign & Development – Florian Nußbaum',
   },
   data() {
     return {
