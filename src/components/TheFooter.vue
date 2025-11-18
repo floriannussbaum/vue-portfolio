@@ -14,8 +14,6 @@
         <div id="footer-wrapper-left">
           <label for="mail">E-Mail</label>
           <a id="mail" href="mailto:florian@fn-code.com" title="E-Mail">florian@fn-code.com</a>
-          <label for="tel">Phone</label>
-          <a href="tel:015223589422" id="tel" title="Telefon">01522 35 89 4 22</a>
         </div>
 
         <div id="footer-wrapper-center">
@@ -31,7 +29,7 @@
               </a>
             </li>
             <li>
-              <a href="https://www.xing.com/profile/Florian_Nussbaum084728/" title="Xing" class="icon-wrapper" target="_blank">
+              <a href="https://www.xing.com/profile/florian_nussbaum084728/" title="Xing" class="icon-wrapper" target="_blank">
                 <i class="icon-xing" />
               </a>
             </li>
@@ -54,7 +52,7 @@
           <router-link to="/datenschutz" rel=”nofollow” title="Datenschutz">Datenschutz</router-link>
         </li>
       </ul>
-      <span>© {{ new Date().getFullYear() }} Florian Nussbaum</span>
+      <span>© {{ new Date().getFullYear() }} Florian Nußbaum</span>
     </div>
   </footer>
 </template>
@@ -133,8 +131,11 @@ footer {
       }
 
       #footer-wrapper-left {
+        text-align: center;
+
         @media only screen and (min-width: 850px) {
           width: 20%;
+          text-align: left;
         }
 
         label {

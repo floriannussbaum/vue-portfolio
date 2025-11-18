@@ -28,7 +28,7 @@
             distance: '900px',
             opacity: null,
             duration: 2000}"
-        >Florian Nußbaum</strong>
+        >Florian Nuẞbaum</strong>
       </p>
     </div>
   
