@@ -27,6 +27,9 @@ php commandline Serving: php -S localhost:8000 -t .
 ```
 
 ## Publish
+```sh
+npm run build
+```
 After build dont forget push files up!
 - robots.txt
 - .htaccess

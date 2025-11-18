@@ -27,7 +27,7 @@
             </p>
           </div>
 
-          <Picture class="spacing" :src="'Florian_Glaeser.jpg'" :alt="'Ein Porträt von Florian Nußbaum'" :title="'Portree von Florian Nußbaum'" />
+          <Picture class="spacing" :src="'florian-nussbaum.jpg'" :alt="'Ein Porträt von Florian Nußbaum'" :title="'Portree von Florian Nußbaum'" />
         </article>
 
         <article>

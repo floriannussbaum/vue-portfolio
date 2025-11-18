@@ -1,4 +1,4 @@
-# robots.txt file for florianglaeser.de
+# robots.txt file for fn-code.com
 
 User-agent: *
 Disallow: /impressum

@@ -13,7 +13,7 @@
       <div id="footer-table">
         <div id="footer-wrapper-left">
           <label for="mail">E-Mail</label>
-          <a id="mail" href="mailto:kontakt@florianglaeser.de" title="E-Mail">kontakt@florianglaeser.de</a>
+          <a id="mail" href="mailto:florian@fn-code.com" title="E-Mail">florian@fn-code.com</a>
           <label for="tel">Phone</label>
           <a href="tel:015223589422" id="tel" title="Telefon">01522 35 89 4 22</a>
         </div>
@@ -26,12 +26,12 @@
               </a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/in/florianglaeser" title="LinkedIn" class="icon-wrapper" target="_blank">
+              <a href="https://www.linkedin.com/in/floriannussbaum/" title="LinkedIn" class="icon-wrapper" target="_blank">
                 <i class="icon-linkedin" />
               </a>
             </li>
             <li>
-              <a href="https://www.xing.com/profile/florian_glaeser13" title="Xing" class="icon-wrapper" target="_blank">
+              <a href="https://www.xing.com/profile/Florian_Nussbaum084728/" title="Xing" class="icon-wrapper" target="_blank">
                 <i class="icon-xing" />
               </a>
             </li>

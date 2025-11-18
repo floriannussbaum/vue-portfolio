@@ -1,5 +1,5 @@
 <?php
-header('Access-Control-Allow-Origin: http://florianglaeser.de/');
+header('Access-Control-Allow-Origin: http://fn-code.com/');
 header('Access-Control-Allow-Headers: x-requested-with, content-type');
 header('Access-Control-Allow-Methods: POST');
 header('content-type: application/json');
@@ -34,8 +34,8 @@ $patternMessage = "/^[a-zA-Z0-9äöüÄÖÜß!\'#$%&*+\/=?^_`{|}~ ,\.\n-]{1,800}
 $validatedMessage = preg_match($patternMessage, $message);
 
 if( $validatedName && $validatedEmail && $validatedMessage ) {
-  $send = 'kontakt@florianglaeser.de';
-  $header[] = 'From: FlorianGlaser <kontakt@florianglaeser.de>';
+  $send = 'florian@fn-code.com';
+  $header[] = 'From: Florian Nußbaum <florian@fn-code.com>';
   $header[] = 'Reply-To: '. $email;
   $header[] = 'MIME-Version: 1.0';
   $header[] = 'Content-type: text/html; charset=utf-8';

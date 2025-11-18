@@ -16,7 +16,7 @@
 
         <h3>Kontakt</h3>
         <p>Telefon: 01522 35 89 4 22<br />
-        E-Mail: kontakt@glaeserflorian.de</p>
+        E-Mail: florian@fn-code.com</p>
 
         <h4>Haftung f&uuml;r Inhalte</h4>
         <p>Als Diensteanbieter sind wir gem&auml;&szlig; &sect; 7 Abs.1 TMG f&uuml;r eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach &sect;&sect; 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, &uuml;bermittelte oder gespeicherte fremde Informationen zu &uuml;berwachen oder nach Umst&auml;nden zu forschen, die auf eine rechtswidrige T&auml;tigkeit hinweisen.</p>
